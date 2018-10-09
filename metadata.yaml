@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'Z'
 - !lcsh 'Cataloging -- Great Britain'
+- GITenberg
 tableOfContents: Introduction -- Battle of the rules -- Print versus manuscript --
   How to treat a title-page -- References and subject index -- Arrangement -- Something
   about MSS. -- Rules for a small library.
